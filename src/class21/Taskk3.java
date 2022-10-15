@@ -9,6 +9,6 @@ public class Taskk3 {
 
 class Programming{
     Programming(){
-        System.out.println("I love programming languages");
+        System.out.println("I love programming languages and GIT");
     }
 }
